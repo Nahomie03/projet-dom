@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: pink;
+}
+#Group1 p{
+    margin-left: 20px;
+}
+.container img{
+    width: 300px;
+}
+.container{
+    align-items: center;
+}
+.quantite{
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    border: none;
+}
+.total{
+    width: 45px;
+    height: 35px;
+    border: none;
+    text-align: center;
+}
+.Prixtotal{
+    width: 45px;
+    height: 35px;
+    border: none;
+    text-align: center;
+    margin-right: 0%;
+
+}
+.liked{
+    color: red;
+    outline-style: hidden;
+}
+
+
+
+
+
+
+
+
+
+
